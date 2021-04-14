@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AlOtaibi-midT2</string>
+    <string name="welcome">Welcome to the project of Reema AlOtaibi 191244 </string>
+    <string name="name">Name: </string>
+    <string name="Email">Email: </string>
+    <string name="phone">Phone: </string>
+    <string name="id">ID: </string>
+    <string name="insert">Insert</string>
+    <string name="goA1">Activity 1</string>
+    <string name="goA2">Activity 2</string>
+    <string name="goA3">Activity 3</string>
+    <string name="search">Search</string>
+    <string name="getData">Get Data</string>
+    <string name="delete">`Delete Record`</string>
+
+</resources>
